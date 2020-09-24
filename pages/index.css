@@ -53,11 +53,11 @@
 @import url(./../blocks/page/content/techniques/cards/cards.css);
 @import url(./../blocks/page/content/techniques/cards/__item/cards__item.css);
 @import url(./../blocks/page/content/techniques/cards/__image/cards__image.css);
-@import url(./../blocks/page/content/techniques/cards/__image/_pic/card__image_pic_attention.css);
-@import url(./../blocks/page/content/techniques/cards/__image/_pic/card__image_pic_competence.css);
-@import url(./../blocks/page/content/techniques/cards/__image/_pic/card__image_pic_interliving.css);
-@import url(./../blocks/page/content/techniques/cards/__image/_pic/card__image_pic_question.css);
-@import url(./../blocks/page/content/techniques/cards/__image/_pic/card__image_pic_recall.css);
+@import url(./../blocks/page/content/techniques/cards/__image/_pic/cards__image_pic_attention.css);
+@import url(./../blocks/page/content/techniques/cards/__image/_pic/cards__image_pic_competence.css);
+@import url(./../blocks/page/content/techniques/cards/__image/_pic/cards__image_pic_interliving.css);
+@import url(./../blocks/page/content/techniques/cards/__image/_pic/cards__image_pic_question.css);
+@import url(./../blocks/page/content/techniques/cards/__image/_pic/cards__image_pic_recall.css);
 @import url(./../blocks/page/content/techniques/cards/__title/cards__title.css);
 @import url(./../blocks/page/content/techniques/cards/__description/cards__description.css);
 
@@ -81,15 +81,15 @@
 
 
 @import url(./../blocks/page/content/khan/khan.css);
-@import url(./../blocks/page/content/khan/__container/khann__container.css);
-@import url(./../blocks/page/content/khan/__author/khann__author.css);
-@import url(./../blocks/page/content/khan/__title/khann__title.css);
-@import url(./../blocks/page/content/khan/__quote/khann__quote.css);
-@import url(./../blocks/page/content/khan/__quote-author/khann__quote-author.css);
-@import url(./../blocks/page/content/khan/__quote-author-subline/khann__quote-author-subline.css);
-@import url(./../blocks/page/content/khan/__book-container/khann__book-container.css);
-@import url(./../blocks/page/content/khan/__book-pic/khann__book-pic.css);
-@import url(./../blocks/page/content/khan/__buy-link/khann__buy-link.css);
+@import url(./../blocks/page/content/khan/__container/khan__container.css);
+@import url(./../blocks/page/content/khan/__author/khan__author.css);
+@import url(./../blocks/page/content/khan/__title/khan__title.css);
+@import url(./../blocks/page/content/khan/__quote/khan__quote.css);
+@import url(./../blocks/page/content/khan/__quote-author/khan__quote-author.css);
+@import url(./../blocks/page/content/khan/__quote-author-subline/khan__quote-author-subline.css);
+@import url(./../blocks/page/content/khan/__book-container/khan__book-container.css);
+@import url(./../blocks/page/content/khan/__book-pic/khan__book-pic.css);
+@import url(./../blocks/page/content/khan/__buy-link/khan__buy-link.css);
 
 
 @import url(./../blocks/page/content/kaufman/kaufman.css);
